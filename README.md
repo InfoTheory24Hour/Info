@@ -7,8 +7,8 @@ about the reading club
 3. To inspire ideas on our daily researches 
 
 ##
-  Book: TBD 
-  （tentative）：[Information Theory, Inference and Learning Algorithms](https://www.amazon.com/Information-Theory-Inference-Learning-Algorithms/dp/0521642981/ref=sr_1_3?s=books&ie=UTF8&qid=1468191074&sr=1-3&keywords=Information+Theory)
+  Book: 
+  （Reference）：[Information Theory, Inference and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itprnn/book.pdf)
  
   
 
